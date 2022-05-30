@@ -10,7 +10,7 @@ The following tutorial was used to learn how to use classes in pygame: http://co
 As such, one may notice many similarities between the structure of the "grid" class and that of the "wall" class in the above tutorial
 
 
-## GAME PLAY
+## GAMEPLAY
 
 - Use arrow keys to move drone
 - Use 'E' key to extinguish fire
