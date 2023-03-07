@@ -11,7 +11,7 @@ As such, one may notice many similarities between the structure of the "grid" cl
 
 
 ## GAMEPLAY
-
+![image](https://user-images.githubusercontent.com/69607411/223469709-596f3c56-046b-44cd-a77e-62060b125f0d.png)
 - Use arrow keys to move drone
 - Use 'E' key to extinguish fire
 - Use 'R' key to plant trees
